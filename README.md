@@ -39,3 +39,21 @@ Markdown, with preview on the right panel.
 Viewing changes in git
 
 ![git](figs/changes.png)
+
+### Sublime text
+
+What is it: A text editor, I'm pretty sure that's it. It's like notepad. There are indeed plugins, but honestly. It's not as smooth as vscode.
+
+#### Download
+
+Link [here](https://www.sublimetext.com/3)
+
+#### Sublimey example
+
+Folder view on the left, minimap on the right.
+
+![sublime](figs/sublime.png)
+
+### Jupyter_notebook
+
+What is it: It looks like a text editor, but it's actually a way to compile code, you can view plots as you write code. Neat stuff.
