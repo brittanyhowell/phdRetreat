@@ -4,17 +4,17 @@
 
 ### Text editors
 
-- VScode
-- Sublime text
+- [VScode](###VScode)
+- [Sublime text](###Sublime_text)
 
 ### Git specific tools
 
-- Git Kraken
+- [Git Kraken](###Git_Kraken)
 
 ### Languages for note taking
 
-- Jupyter notebook
-- Markdown
+- [Jupyter notebook](###Jupyter_notebook)
+- [Markdown](###Markdown)
 
 ### VSCode
 
