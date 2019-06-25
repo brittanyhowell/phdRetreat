@@ -7,14 +7,9 @@
 - [VScode](###VScode)
 - [Sublime text](###Sublime_text)
 
-### Git specific tools
-
-- [Git Kraken](###Git_Kraken)
-
 ### Languages for note taking
 
 - [Jupyter notebook](###Jupyter_notebook)
-- [Markdown](###Markdown)
 
 ### VSCode
 
@@ -40,11 +35,11 @@ Viewing changes in git
 
 ![git](figs/changes.png)
 
-### Sublime text
+### Sublime_text
 
 What is it: A text editor, I'm pretty sure that's it. It's like notepad. There are indeed plugins, but honestly. It's not as smooth as vscode.
 
-#### Download
+#### Download it
 
 Link [here](https://www.sublimetext.com/3)
 
