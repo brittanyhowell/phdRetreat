@@ -57,3 +57,15 @@ Folder view on the left, minimap on the right.
 ### Jupyter_notebook
 
 What is it: It looks like a text editor, but it's actually a way to compile code, you can view plots as you write code. Neat stuff.
+
+#### How to launch
+
+This one is a bit of a time. You need to install it first, then you can launch it from the command line with:
+
+``` bash
+jupyter notebook <filename>
+```
+
+which will create a notebook in the same directory.
+
+Create note
