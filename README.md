@@ -66,3 +66,5 @@ which will initiate a notebook session in the same directory.
 ![jupyter](figs/jupyter.png)
 
 You can then click create, or open a notebook you already have, and begin editing.
+
+Here is a change
