@@ -68,4 +68,5 @@ jupyter notebook <filename>
 
 which will create a notebook in the same directory.
 
-Create note
+Remove note
+
