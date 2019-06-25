@@ -66,7 +66,8 @@ This one is a bit of a time. You need to install it first, then you can launch i
 jupyter notebook <filename>
 ```
 
-which will create a notebook in the same directory.
+which will initiate a notebook session in the same directory.
 
-Remove note
+![jupyter](figs/jupyter.png)
 
+You can then click create, or open a notebook you already have, and begin editing.
